@@ -33,5 +33,9 @@
       "source": "Git Bash"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "explorer.excludeGitIgnore": true,
+  "files.exclude": {
+    "**/.git": false
+  }
 }
